@@ -9,7 +9,7 @@ npm i combine-class-names
 ```
 
 ```jsx
-import combineClassNames from 'combine-class-names';
+import combineClassNames from 'combine-classnames';
 
 const MyComponent = ({
   isCool,
