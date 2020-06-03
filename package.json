@@ -1,5 +1,5 @@
 {
-  "name": "combine-classnames",
+  "name": "combineclassnames",
   "version": "1.0.0",
   "description": "JS Utility for cleaner className template literals in React",
   "main": "index.js",

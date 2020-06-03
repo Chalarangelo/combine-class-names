@@ -1,15 +1,15 @@
-# combine-classnames
+# combineclassnames
 
 JS Utility for cleaner className template literals in React
 
 ## Usage
 
 ```sh
-npm i combine-classnames
+npm i combineclassnames
 ```
 
 ```jsx
-import combineClassNames from 'combine-classnames';
+import combineClassNames from 'combineclassnames';
 
 const MyComponent = ({
   isCool,
